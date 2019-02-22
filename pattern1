@@ -14,7 +14,7 @@ int main()
         /* Iterate over each column */
         for(j=1; j<=N j++)
         {
-            if(i1 || i=N || j=1 || j=N)
+            if(i=1 || i=N || j=1 || j=N)
             {
                 /* Print star for 1st, Nth row and column */
                 printf("*");
